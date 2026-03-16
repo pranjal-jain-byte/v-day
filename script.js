@@ -10,23 +10,24 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
-]
+    "No 😒",
+    "Hiyu are you serious right now? 🤨",
+    "Pookie Hiyu please 🥺",
+    "If you say no, my heart.exe will crash 💔",
+    "Hiyude don't do this to me 😭",
+    "I even practiced this proposal in mirror 🥹",
+    "Please press YES Hiyu ❤️",
+    "Last chance Hiyude 👀",
+    "You can't escape love 😜",
+    "Just press YES already Hiyu 😌"
+];
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
-]
+    "Hiyu try pressing NO first... I'm curious 😏",
+    "Go on Hiyu, just one NO 👀",
+    "Don't be shy Hiyu... click it 😂",
+    "You're curious right Hiyu? 😜"
+];
 
 let yesTeasedCount = 0
 
